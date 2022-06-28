@@ -1,5 +1,5 @@
 
-Car price prediction using simple linear regression
+Car price prediction using simple linear regression.
 Linear regression:
    Linear regression analysis is used to predict the value of a variable based on the value of another variable. 
    The variable you want to predict is called the dependent variable. 
